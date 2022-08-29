@@ -47,7 +47,6 @@ int solve(int a, int b, int c, float &x1, float &x2)
         x1 = 1.0 * -b / (2*a);
         return 2;
     }
-
 }
 void output(int flag, float x1, float x2)
 {
